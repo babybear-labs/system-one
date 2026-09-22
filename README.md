@@ -19,6 +19,7 @@
   - https://github.com/trungdq88/jev-tetris
   - https://github.com/shhivv/third-hand
   - https://github.com/moritzkremb/jev-voice-browser
+  - https://github.com/virajbhartiya/laya-vs-jev
 
 - Misc
   - https://github.com/Asymptote-Labs/agent-beacon

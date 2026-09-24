@@ -9,7 +9,8 @@
   - https://github.com/bespokelabsai/nimble
   - https://github.com/sabeel111/OpenSourceJev
   - https://github.com/ekzhang/openjev-sglang
-  - https://simple-jev.featherless.ai/
+  - https://simple-jev.featherless.ai
+  - https://github.com/Contrastive-LM/CLM
 
 - Playground
   - https://www.beam.cloud/playground

@@ -15,6 +15,7 @@
 - Playground
   - https://www.beam.cloud/playground
   - https://github.com/fstandhartinger/jevbench
+  - https://jevmade.com
 
 - Apps
   - https://github.com/trungdq88/jev-tetris
